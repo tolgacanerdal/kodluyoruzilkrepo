@@ -19,7 +19,7 @@ code .
 ## Contributing
 - Her zaman ve her koşulda kişinin kendisini geliştirebileceğine inaniyorum.
     - Asla Pes Etme
-- Dünya adeletsizliğine ve eşitsizliğine karşı bilgi ile savaşıp kazanmak her zamna mümkün.
+- Dünya adeletsizliğine ve eşitsizliğine karşı bilgi ile savaşıp kazanmak her zaman mümkün.
 
 
 ## License
